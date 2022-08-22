@@ -1,0 +1,11 @@
+{
+  "name": "berdarah",
+  "version": "1.0.0",
+  "description": "batch 39 BOCOS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad A bdul Kh. Arr.",
+  "license": "ISC"
+}
